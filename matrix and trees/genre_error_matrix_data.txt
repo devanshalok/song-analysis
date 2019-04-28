@@ -1,0 +1,11 @@
+"classic pop and rock" "classical" "dance and electronica" "folk" "hip-hop" "jazz and blues" "metal" "pop" "punk" "soul and reggae"
+"classic pop and rock" 6654 0 0 493 0 69 0 0 0 0
+"classical" 118 0 0 264 0 191 0 0 0 0
+"dance and electronica" 1245 0 0 146 0 74 0 0 0 0
+"folk" 3137 0 0 728 0 78 0 0 0 0
+"hip-hop" 132 0 0 7 0 0 0 0 0 0
+"jazz and blues" 777 0 0 251 0 245 0 0 0 0
+"metal" 625 0 0 5 0 0 0 0 0 0
+"pop" 493 0 0 6 0 1 0 0 0 0
+"punk" 892 0 0 20 0 1 0 0 0 0
+"soul and reggae" 1163 0 0 56 0 9 0 0 0 0
